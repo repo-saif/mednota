@@ -1,0 +1,10 @@
+{
+    "menu": {
+        "dashboard": "Dashboard",
+        "home": "Home",
+        "hospitals": "Hospitals",
+        "patients": "Patients",
+        "my_account": "My Account",
+        "logout": "Log out"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "menu": {
+        "dashboard": "Armaturenbrett",
+        "home": "Heim",
+        "hospitals": "Krankenhäuser",
+        "patients": "Patienten",
+         "my_account": "Mein Konto",
+        "logout": "Ausloggen"
+    }
+}
